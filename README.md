@@ -102,9 +102,9 @@ Yes — offsets are fetched and re-dumped so injection keeps working after game 
 ## 📜 Changelog
 
 ### v4.0.2
-- Full rebrand: **SacredWare → FallenWare** (app, core, data path, pipe, website, bot)
 - Silent C# core — no console window ever again
 - New animated collapsible sidebar UI
+- Rebranded app, core, data path and pipe under the **FallenWare** name
 - Migrated data folder to `%APPDATA%\FallenWare`
 - Discord RPC integration
 
